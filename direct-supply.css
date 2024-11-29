@@ -1,0 +1,6 @@
+body{
+    text-align: center;
+    background: linear-gradient(to right, #4289db, rgb(217, 223, 57));
+    border: black solid 1px;
+    margin: 10%;
+}
