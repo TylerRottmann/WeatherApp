@@ -2,7 +2,7 @@ let city = "";
 let state = "";
 let temperature;
 let description;
-const APIKey = "8a6f882c472f5900921724b94c83041e";
+const APIKey = ;
 
 function callAPI(){
     city = document.getElementById('city').value;
